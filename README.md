@@ -9,4 +9,3 @@ Note that by blog is linked to this, available at:
 
 [yan-holtz.com/blog](https://arifirmansyah.github.io/myportfoliodataanalyst/blog)
 
-
